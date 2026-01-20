@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Пуш-сообщения"
+    id="id-f30b9d94a03048f4a5e438818a194a22">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ca2cc1ef78bb42b1baf9b5b33b5bf11f.xml#id-ca2cc1ef78bb42b1baf9b5b33b5bf11f"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-ed04cca2394b43fabcc7fcb14ced0d52.xml#id-ed04cca2394b43fabcc7fcb14ced0d52"/>
+</archimate:FlowRelationship>

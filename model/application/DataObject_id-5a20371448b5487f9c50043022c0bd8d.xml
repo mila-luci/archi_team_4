@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Данные по заявке"
+    id="id-5a20371448b5487f9c50043022c0bd8d">
+  <properties
+      key="Идентификатор заявки"
+      value="123"/>
+</archimate:DataObject>

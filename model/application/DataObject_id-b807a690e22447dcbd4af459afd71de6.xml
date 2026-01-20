@@ -1,0 +1,29 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Данные по машине"
+    id="id-b807a690e22447dcbd4af459afd71de6">
+  <properties
+      key="Идентификатор заправщика"/>
+  <properties
+      key="Номер машины"/>
+  <properties
+      key="Гос. номер"/>
+  <properties
+      key="Модель"/>
+  <properties
+      key="Год выпуска"/>
+  <properties
+      key="Вместимость бака"/>
+  <properties
+      key="Текущий уровень топлива"/>
+  <properties
+      key="Поддерживаемые виды топлива"/>
+  <properties
+      key="Статус"/>
+  <properties
+      key="Текущее местоположение"/>
+  <properties
+      key="Назначенный водитель"/>
+  <properties
+      key="Среднее время заправки"/>
+</archimate:DataObject>

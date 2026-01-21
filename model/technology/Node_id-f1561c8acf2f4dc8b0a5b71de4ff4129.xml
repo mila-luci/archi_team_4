@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Кубернетес 2"
+    id="id-f1561c8acf2f4dc8b0a5b71de4ff4129"
+    documentation="Второй кубернетес в резервном облаке&#xA;Полностью дублирует основной кубер&#xA;Каждое приложение синхронизируется отдельно"/>

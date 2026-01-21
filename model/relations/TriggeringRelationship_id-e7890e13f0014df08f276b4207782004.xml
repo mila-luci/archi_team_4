@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Начало отпуска"
+    id="id-e7890e13f0014df08f276b4207782004">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0a016d276732487db52f5621cf65dba6.xml#id-0a016d276732487db52f5621cf65dba6"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c303ea39fe054993a7afab618e336327.xml#id-c303ea39fe054993a7afab618e336327"/>
+</archimate:TriggeringRelationship>

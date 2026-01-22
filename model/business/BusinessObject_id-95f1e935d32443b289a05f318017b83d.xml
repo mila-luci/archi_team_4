@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Заявка на заправку"
+    id="id-95f1e935d32443b289a05f318017b83d">
+  <properties
+      key="Идентификатор заявки"/>
+  <properties
+      key="Номер заявки"/>
+  <properties
+      key="Бортовой номер самолета"/>
+  <properties
+      key="Тип самолета"/>
+  <properties
+      key="Контакт"/>
+  <properties
+      key="Место стоянки самолета"/>
+  <properties
+      key="Фактические время и дата выполнения"/>
+  <properties
+      key="Тип топлива"/>
+  <properties
+      key="Требуемое количество топлива"/>
+  <properties
+      key="Дата и время запроса"/>
+  <properties
+      key="Желаемое время выполнения"/>
+  <properties
+      key="Статус заявки"/>
+  <properties
+      key="Приоритет"/>
+  <properties
+      key="Авиакомпания"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Синхронизация"
+    id="id-bef34e1413bb432696e9010854e9fab9">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-a3276726c7234eff9c79aa7cd4e8a679.xml#id-a3276726c7234eff9c79aa7cd4e8a679"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-26a470b142aa45a9ba55c93bca575307.xml#id-26a470b142aa45a9ba55c93bca575307"/>
+</archimate:AssociationRelationship>

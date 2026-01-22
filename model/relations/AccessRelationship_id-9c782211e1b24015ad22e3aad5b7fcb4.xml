@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Чтение"
+    id="id-9c782211e1b24015ad22e3aad5b7fcb4">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c0533c7cdff74f14a89a6ccb72d15cee.xml#id-c0533c7cdff74f14a89a6ccb72d15cee"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7798d897b0324f37bde54ac3e32a1f79.xml#id-7798d897b0324f37bde54ac3e32a1f79"/>
+</archimate:AccessRelationship>

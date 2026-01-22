@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Балансировка"
+    id="id-1b3b4907806045bc8a068638bbe3e8d3">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-cbb285ec4faf44cdbee5070688a11d75.xml#id-cbb285ec4faf44cdbee5070688a11d75"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-34946d56fab641a9bbd8db8ad9a44bf0.xml#id-34946d56fab641a9bbd8db8ad9a44bf0"/>
+</archimate:AssociationRelationship>

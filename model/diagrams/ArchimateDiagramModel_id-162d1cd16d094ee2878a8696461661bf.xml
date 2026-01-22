@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04_Инфраструктура"
-    id="id-162d1cd16d094ee2878a8696461661bf">
+    id="id-162d1cd16d094ee2878a8696461661bf"
+    documentation="IT инфраструктура приложений размещается в кубернетесе, на физической инфраструктуре компании.&#xA;Реализовано резервирование физического оборудования, конфигурации приложений и базы данных.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-67a0f909604b4f4387ad078d3dbc9ad8"

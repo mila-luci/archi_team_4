@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TG API"
     id="id-3a264101094d40d7891d3f3451977eac">
   <source
       xsi:type="archimate:TechnologyInterface"

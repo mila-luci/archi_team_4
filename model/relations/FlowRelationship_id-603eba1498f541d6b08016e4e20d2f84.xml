@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GRPC"
     id="id-603eba1498f541d6b08016e4e20d2f84">
   <source
       xsi:type="archimate:SystemSoftware"

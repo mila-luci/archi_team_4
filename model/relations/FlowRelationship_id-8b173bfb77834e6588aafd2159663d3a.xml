@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTP"
     id="id-8b173bfb77834e6588aafd2159663d3a">
   <source
       xsi:type="archimate:ApplicationComponent"

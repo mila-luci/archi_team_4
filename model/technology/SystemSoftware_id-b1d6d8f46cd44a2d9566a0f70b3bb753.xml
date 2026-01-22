@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Фронт"
-    id="id-b1d6d8f46cd44a2d9566a0f70b3bb753"/>
+    id="id-b1d6d8f46cd44a2d9566a0f70b3bb753"
+    documentation="Приложение, реализующее фронтовый интерфейс при первом обращении к нему одаёт ссылку на сервер авторизации.&#xA;"/>

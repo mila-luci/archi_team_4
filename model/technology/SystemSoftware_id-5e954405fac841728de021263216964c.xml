@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Серис авторизации"
+    id="id-5e954405fac841728de021263216964c"
+    documentation="Сервис авторизации принимает учётные данные клиента или приложения, верифицирует их и выдаёт токен доступа к другим приложениям"/>

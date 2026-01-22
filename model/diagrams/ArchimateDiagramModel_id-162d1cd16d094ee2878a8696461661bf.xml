@@ -926,15 +926,15 @@
         source="id-cf305b7a401049f8b230f34dc94ced91"
         target="id-3c901bfe912d4fa2a02d501ef91bf96f">
       <bendpoints
-          startY="526"
-          endX="144"
-          endY="-5"/>
+          startY="465"
+          endX="156"
+          endY="-18"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-dc29a572778345bf9e8fa380c8897fd4.xml#id-dc29a572778345bf9e8fa380c8897fd4"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="300"
         y="24"
         width="120"
         height="55"/>

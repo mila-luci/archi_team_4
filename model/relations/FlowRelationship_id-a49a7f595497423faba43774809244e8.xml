@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PUSH &quot;Скоро начнется заправка&quot;"
+    id="id-a49a7f595497423faba43774809244e8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1c68b627562542678304d4eddf0f1195.xml#id-1c68b627562542678304d4eddf0f1195"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-55fc0c3801e948968610b32d1540e552.xml#id-55fc0c3801e948968610b32d1540e552"/>
+</archimate:FlowRelationship>

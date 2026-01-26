@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Нажатие кнопки в меню"
+    id="id-ae3dc5b70afa42adaf8ccff8ac73e5a9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-421f0a3807f1413e875fe806c0f1cd7d.xml#id-421f0a3807f1413e875fe806c0f1cd7d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5ebe8b6312e2408f9fd4ed43d8ccb706.xml#id-5ebe8b6312e2408f9fd4ed43d8ccb706"/>
+</archimate:FlowRelationship>

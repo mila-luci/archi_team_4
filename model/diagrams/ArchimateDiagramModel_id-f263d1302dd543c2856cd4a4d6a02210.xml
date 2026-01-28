@@ -118,7 +118,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cbb9d17ecad6477b8d01c5e9b042c386"
-      targetConnections="id-c0a334390b9240f0ab3bc937df6ef3db id-28202269ca0b4c1bbd0746157db29b76">
+      targetConnections="id-c0a334390b9240f0ab3bc937df6ef3db">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1c5c975a632040099973777dac558a8d"
@@ -127,6 +127,20 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-11241bcdceab40f5a4f96f2da85bcb87.xml#id-11241bcdceab40f5a4f96f2da85bcb87"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8402466eb6644712b76122742e364a70"
+        source="id-cbb9d17ecad6477b8d01c5e9b042c386"
+        target="id-849e583c053b430f9917ed389964628c">
+      <bendpoints
+          startX="36"
+          startY="-63"
+          endX="-204"
+          endY="1"/>
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-5a38147b37ae4ac181bd935d3ab82e5a.xml#id-5a38147b37ae4ac181bd935d3ab82e5a"/>
     </sourceConnections>
     <bounds
         x="552"
@@ -481,21 +495,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-849e583c053b430f9917ed389964628c"
-      targetConnections="id-e2b882fcbaf9447c8299eb00fd77d3a6">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-28202269ca0b4c1bbd0746157db29b76"
-        source="id-849e583c053b430f9917ed389964628c"
-        target="id-cbb9d17ecad6477b8d01c5e9b042c386">
-      <bendpoints
-          startX="-204"
-          startY="1"
-          endX="36"
-          endY="-63"/>
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-2139b4b82c5e453baa8914150c02ffab.xml#id-2139b4b82c5e453baa8914150c02ffab"/>
-    </sourceConnections>
+      targetConnections="id-e2b882fcbaf9447c8299eb00fd77d3a6 id-8402466eb6644712b76122742e364a70">
     <bounds
         x="792"
         y="128"

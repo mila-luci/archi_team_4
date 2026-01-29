@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.2 Отправка на BFF"
     id="id-72f34181ee25438792fa7aa986f6d9e8">
   <source
       xsi:type="archimate:ApplicationComponent"

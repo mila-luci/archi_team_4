@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1 Получение заявки в Telegram"
+    id="id-adc5d445958f4821ad742a3c6c19dd75">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5f793d32ea5d45a2834e5da2d6820988.xml#id-5f793d32ea5d45a2834e5da2d6820988"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c1a3ab5a45be485796b47b04989e6c71.xml#id-c1a3ab5a45be485796b47b04989e6c71"/>
+</archimate:FlowRelationship>

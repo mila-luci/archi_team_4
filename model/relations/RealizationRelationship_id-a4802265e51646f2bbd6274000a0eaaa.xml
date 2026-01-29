@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.4 Получение списка заявок"
     id="id-a4802265e51646f2bbd6274000a0eaaa">
   <source
       xsi:type="archimate:ApplicationComponent"

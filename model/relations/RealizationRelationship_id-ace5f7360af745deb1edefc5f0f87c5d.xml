@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.3 Сформированный реквест на заправку"
     id="id-ace5f7360af745deb1edefc5f0f87c5d">
   <source
       xsi:type="archimate:ApplicationComponent"

@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.1 формирование задачи диспетчеру"
     id="id-dff25282c6184585a124f9a29207bb09">
   <source
       xsi:type="archimate:ApplicationComponent"

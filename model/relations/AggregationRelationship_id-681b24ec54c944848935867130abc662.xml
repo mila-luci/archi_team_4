@@ -1,7 +1,8 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-681b24ec54c944848935867130abc662">
+    id="id-681b24ec54c944848935867130abc662"
+    documentation="Нода приложения (k8s или DB) поднята на ноде виртуальная машина (работает поверх)">
   <source
       xsi:type="archimate:Node"
       href="Node_id-0583557a9ba245b994de14fc248fa177.xml#id-0583557a9ba245b994de14fc248fa177"/>

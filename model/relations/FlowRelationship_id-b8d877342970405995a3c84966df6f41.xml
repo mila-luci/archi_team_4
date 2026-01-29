@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.1 Подача заявки на обслуживание"
+    id="id-b8d877342970405995a3c84966df6f41">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f86fe126c5b9469c8ac1108e085c43f5.xml#id-f86fe126c5b9469c8ac1108e085c43f5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9ca1184391c42f3b03aa6801f3d0d0a.xml#id-f9ca1184391c42f3b03aa6801f3d0d0a"/>
+</archimate:FlowRelationship>

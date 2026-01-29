@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-dac7f0b5fddd491bb45b78dee7a73d19">
+    id="id-dac7f0b5fddd491bb45b78dee7a73d19"
+    documentation="после 1.4 сервис управления заявками формирует задачу для диспетчера">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-369ddf2ecacb4343946e1361d17755b2.xml#id-369ddf2ecacb4343946e1361d17755b2"/>

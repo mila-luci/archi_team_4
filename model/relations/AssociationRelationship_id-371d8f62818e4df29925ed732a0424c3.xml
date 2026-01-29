@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-371d8f62818e4df29925ed732a0424c3">
+    name="2.1 Интеграция с общей системой аэропорта"
+    id="id-371d8f62818e4df29925ed732a0424c3"
+    documentation="Общая интеграция с АСУ для отметки, что заявка на заправку отправлена и обработана.">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-369ddf2ecacb4343946e1361d17755b2.xml#id-369ddf2ecacb4343946e1361d17755b2"/>

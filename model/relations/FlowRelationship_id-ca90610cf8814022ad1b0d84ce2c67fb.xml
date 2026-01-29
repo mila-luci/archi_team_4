@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.2 Обработка заявки диспетчером"
+    id="id-ca90610cf8814022ad1b0d84ce2c67fb">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c5abde8a0e67478b909b930da06ca8db.xml#id-c5abde8a0e67478b909b930da06ca8db"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-058be3b58a7c4c3e881da53ad2f08c7c.xml#id-058be3b58a7c4c3e881da53ad2f08c7c"/>
+</archimate:FlowRelationship>

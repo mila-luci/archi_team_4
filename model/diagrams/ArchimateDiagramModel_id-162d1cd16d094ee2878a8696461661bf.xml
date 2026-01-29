@@ -370,28 +370,6 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-2c8df49dc9864ee99ef34927ca04c073"
-          targetConnections="id-070e3dea5836454ab26cafa4c8d61583">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-4ce2580fb9e44470af2a8e51b2ed549d"
-            source="id-2c8df49dc9864ee99ef34927ca04c073"
-            target="id-668ab5249ade4a6383741402f7bc1023">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_id-6f7af783225e4c438a8d3bd4bbec0068.xml#id-6f7af783225e4c438a8d3bd4bbec0068"/>
-        </sourceConnections>
-        <bounds
-            x="24"
-            y="12"
-            width="145"
-            height="85"/>
-        <archimateElement
-            xsi:type="archimate:SystemSoftware"
-            href="SystemSoftware_id-2240e0d0bdf04952b52a6250ff3ac8ba.xml#id-2240e0d0bdf04952b52a6250ff3ac8ba"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8dd45c27f55b46a3b7f55991c82c38f0"
           targetConnections="id-a9aae11b832445b5bcefa68c790accfe">
         <sourceConnections
@@ -459,6 +437,28 @@
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_id-5e954405fac841728de021263216964c.xml#id-5e954405fac841728de021263216964c"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-2c8df49dc9864ee99ef34927ca04c073"
+          targetConnections="id-070e3dea5836454ab26cafa4c8d61583">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-4ce2580fb9e44470af2a8e51b2ed549d"
+            source="id-2c8df49dc9864ee99ef34927ca04c073"
+            target="id-668ab5249ade4a6383741402f7bc1023">
+          <archimateRelationship
+              xsi:type="archimate:RealizationRelationship"
+              href="RealizationRelationship_id-6f7af783225e4c438a8d3bd4bbec0068.xml#id-6f7af783225e4c438a8d3bd4bbec0068"/>
+        </sourceConnections>
+        <bounds
+            x="60"
+            y="36"
+            width="145"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-2240e0d0bdf04952b52a6250ff3ac8ba.xml#id-2240e0d0bdf04952b52a6250ff3ac8ba"/>
       </children>
       <archimateElement
           xsi:type="archimate:Node"

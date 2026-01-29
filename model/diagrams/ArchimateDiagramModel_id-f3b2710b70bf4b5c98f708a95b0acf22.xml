@@ -181,8 +181,8 @@
           href="RealizationRelationship_id-de219990d1054105aa6ced04ac87fa77.xml#id-de219990d1054105aa6ced04ac87fa77"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="552"
+        x="911"
+        y="546"
         width="120"
         height="55"/>
     <archimateElement
@@ -202,8 +202,8 @@
           href="AssignmentRelationship_id-f9e453f365e44663bc01f41afb2e8f41.xml#id-f9e453f365e44663bc01f41afb2e8f41"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="684"
+        x="911"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -700,7 +700,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="336"
+          y="324"
           width="385"
           height="49"/>
       <archimateElement

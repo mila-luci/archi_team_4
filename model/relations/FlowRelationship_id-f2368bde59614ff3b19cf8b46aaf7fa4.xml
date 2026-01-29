@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-f2368bde59614ff3b19cf8b46aaf7fa4">
+    id="id-f2368bde59614ff3b19cf8b46aaf7fa4"
+    documentation="Все платформенные сервисы обращаются друг к другу через интеграционные шлюзы">
   <source
       xsi:type="archimate:TechnologyInterface"
       href="TechnologyInterface_id-3990671947ff4dcd9275cf6e2d2cf13f.xml#id-3990671947ff4dcd9275cf6e2d2cf13f"/>

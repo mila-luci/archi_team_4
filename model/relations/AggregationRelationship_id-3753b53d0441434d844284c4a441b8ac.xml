@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Виртуальная машина в роли Worker развё"
     id="id-3753b53d0441434d844284c4a441b8ac">
   <source
       xsi:type="archimate:Node"

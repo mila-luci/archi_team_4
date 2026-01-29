@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HTTP"
-    id="id-10311600d2ab43ac94ec8cb1ae6e351f">
+    id="id-10311600d2ab43ac94ec8cb1ae6e351f"
+    documentation="Фронтовый микросервис преобразует запросы пользователя из графического интерфейса в HTTP вызовы">
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-b1d6d8f46cd44a2d9566a0f70b3bb753.xml#id-b1d6d8f46cd44a2d9566a0f70b3bb753"/>

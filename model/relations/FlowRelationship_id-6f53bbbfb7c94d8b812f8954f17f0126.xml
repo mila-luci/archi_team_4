@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GRPC"
-    id="id-6f53bbbfb7c94d8b812f8954f17f0126">
+    id="id-6f53bbbfb7c94d8b812f8954f17f0126"
+    documentation="Backend-GW&#xA;Межсервисное взаимодействие внутри кластера K8S осуществляется по протоколу GRPC&#xA;Поток данных от внешних UI систем до сервисов платформы проходит через шлюз фронтовых приложений.&#xA;Шлюз фронтовых приложений скрывает технические параметры платформы, а также участвует в авторизации и проверки пользователей платформы">
   <source
       xsi:type="archimate:TechnologyInterface"
       href="TechnologyInterface_id-b45741c43b1644e48bd12a3b4a62fa79.xml#id-b45741c43b1644e48bd12a3b4a62fa79"/>

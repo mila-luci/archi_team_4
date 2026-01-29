@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-4f6ac871a74d47e186d6b120d63292e3">
+    name="DB-NET"
+    id="id-4f6ac871a74d47e186d6b120d63292e3"
+    documentation="База данных использует ресурсы сети передачи данных">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-888d89562be34c8daccfa4f558a94ce1.xml#id-888d89562be34c8daccfa4f558a94ce1"/>

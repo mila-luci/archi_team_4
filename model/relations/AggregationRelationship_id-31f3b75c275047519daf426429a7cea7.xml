@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-31f3b75c275047519daf426429a7cea7">
+    name="VM-Hyper"
+    id="id-31f3b75c275047519daf426429a7cea7"
+    documentation="Виртуальная машина создана на ресурсах гипервизора">
   <source
       xsi:type="archimate:TechnologyCollaboration"
       href="TechnologyCollaboration_id-0082ddf8f167427eb907a865df4fc9a8.xml#id-0082ddf8f167427eb907a865df4fc9a8"/>

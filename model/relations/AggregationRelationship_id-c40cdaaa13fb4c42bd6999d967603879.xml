@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-c40cdaaa13fb4c42bd6999d967603879">
+    name="OrderCheck-K8S"
+    id="id-c40cdaaa13fb4c42bd6999d967603879"
+    documentation="Сервис проверки заявок развёрнут в контейнере K8S">
   <source
       xsi:type="archimate:Node"
       href="Node_id-00e89fddece84a8bb5a949fb16c9599e.xml#id-00e89fddece84a8bb5a949fb16c9599e"/>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HTTP"
-    id="id-8b173bfb77834e6588aafd2159663d3a">
+    id="id-8b173bfb77834e6588aafd2159663d3a"
+    documentation="Внешние пользовательские приложения вызывают фронт платформы по протоколу HTTP">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-058be3b58a7c4c3e881da53ad2f08c7c.xml#id-058be3b58a7c4c3e881da53ad2f08c7c"/>

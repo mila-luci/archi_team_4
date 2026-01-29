@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-4306cc9140f448dd834d412c4d75d3ab">
+    name="VM-NET"
+    id="id-4306cc9140f448dd834d412c4d75d3ab"
+    documentation="Виртуальная машина использует ресурсы сети передачи данных">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-b1cff26727634bbcaa168ddf7e239ff2.xml#id-b1cff26727634bbcaa168ddf7e239ff2"/>

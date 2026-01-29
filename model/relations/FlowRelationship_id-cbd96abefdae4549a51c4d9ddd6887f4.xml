@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HTTP"
-    id="id-cbd96abefdae4549a51c4d9ddd6887f4">
+    id="id-cbd96abefdae4549a51c4d9ddd6887f4"
+    documentation="Внешние пользовательские приложения обращаются на сервис авторизации по протоколу HTTP для получения токена доступа">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-a205cd919afb46b3a9ffe4b2494b1649.xml#id-a205cd919afb46b3a9ffe4b2494b1649"/>

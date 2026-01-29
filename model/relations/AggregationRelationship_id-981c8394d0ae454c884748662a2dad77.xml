@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-981c8394d0ae454c884748662a2dad77">
+    name="LB-K8S"
+    id="id-981c8394d0ae454c884748662a2dad77"
+    documentation="Балансировщик нагрузки развёрнут как приложение на ресурсах K8S">
   <source
       xsi:type="archimate:Node"
       href="Node_id-f1561c8acf2f4dc8b0a5b71de4ff4129.xml#id-f1561c8acf2f4dc8b0a5b71de4ff4129"/>

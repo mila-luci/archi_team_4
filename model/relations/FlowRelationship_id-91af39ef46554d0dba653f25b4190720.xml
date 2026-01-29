@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GRPC"
-    id="id-91af39ef46554d0dba653f25b4190720">
+    id="id-91af39ef46554d0dba653f25b4190720"
+    documentation="Backend-IntGW&#xA;Межсервисное взаимодействие внутри кластера K8S осуществляется по протоколу GRPC&#xA;Поток данных от внешних систем до сервисов платформы проходит через интеграционный шлюз.&#xA;Интеграционный шлюз скрывает технические параметры платформы, а также участвует в авторизации и проверки пользователей платформы">
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-f6b4e4ad80564b9ea029b2573dcf7a29.xml#id-f6b4e4ad80564b9ea029b2573dcf7a29"/>

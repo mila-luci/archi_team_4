@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b4629515761b40ef979b23b103fc0013">
+    name="Front-K8S"
+    id="id-b4629515761b40ef979b23b103fc0013"
+    documentation="Приложение для доступа фронтовых сервисов развёрнуто в контейнере K8S">
   <source
       xsi:type="archimate:Node"
       href="Node_id-00e89fddece84a8bb5a949fb16c9599e.xml#id-00e89fddece84a8bb5a949fb16c9599e"/>

@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b0af3640fcc64ad0bbc00e542434dcb3">
+    name="K8S-VMM"
+    id="id-b0af3640fcc64ad0bbc00e542434dcb3"
+    documentation="K8S развёрнут на виртуальных машинах в гипервизоре с конфигурацией Master-Worker">
   <source
       xsi:type="archimate:Node"
       href="Node_id-653d93d055574e1e81f87d13625d7a72.xml#id-653d93d055574e1e81f87d13625d7a72"/>

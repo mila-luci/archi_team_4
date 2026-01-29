@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-c83cc2215a3c49d3b0e9709d73bf6fbd">
+    name="K8S-NET"
+    id="id-c83cc2215a3c49d3b0e9709d73bf6fbd"
+    documentation="K8S использует ресурсы сети передачи данных">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-2b904a905d15481db8b9e824e474d80e.xml#id-2b904a905d15481db8b9e824e474d80e"/>

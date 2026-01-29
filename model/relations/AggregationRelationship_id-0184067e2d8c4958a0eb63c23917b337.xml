@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-0184067e2d8c4958a0eb63c23917b337">
+    name="Worker на гипервизоре"
+    id="id-0184067e2d8c4958a0eb63c23917b337"
+    documentation="Кубернетес нода с ролью Worker использует ресурсы виртуальной машины, развёрнутой в гипервизоре">
   <source
       xsi:type="archimate:TechnologyCollaboration"
       href="TechnologyCollaboration_id-ecfb7206af7a475da45fe9794b9302b4.xml#id-ecfb7206af7a475da45fe9794b9302b4"/>

@@ -1,7 +1,9 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-f57d1b8f35c842348ea8a5c93290d209">
+    name="Fuel-K8S"
+    id="id-f57d1b8f35c842348ea8a5c93290d209"
+    documentation="Сервис управления заправок развёрнут в контейнере K8S">
   <source
       xsi:type="archimate:Node"
       href="Node_id-00e89fddece84a8bb5a949fb16c9599e.xml#id-00e89fddece84a8bb5a949fb16c9599e"/>

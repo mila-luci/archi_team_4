@@ -1,7 +1,9 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-e52cc21ace614f148a845405c00bdb13">
+    name="BE-GW"
+    id="id-e52cc21ace614f148a845405c00bdb13"
+    documentation="Backend-GW&#xA;Поток данных от внешних UI систем до сервисов платформы проходит через шлюз фронтовых приложений.&#xA;Шлюз фронтовых приложений скрывает технические параметры платформы, а также участвует в авторизации и проверки пользователей платформы">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-9b86eb6f72554c37b17e826ef061bb68.xml#id-9b86eb6f72554c37b17e826ef061bb68"/>

@@ -1,7 +1,9 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-f0cf2030589e49ff90ee350abdafdcdc">
+    name="Service-Container"
+    id="id-f0cf2030589e49ff90ee350abdafdcdc"
+    documentation="Контейнер K8S имплементирует приложение">
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-0548f77111524eb79734b9943543c4f6.xml#id-0548f77111524eb79734b9943543c4f6"/>

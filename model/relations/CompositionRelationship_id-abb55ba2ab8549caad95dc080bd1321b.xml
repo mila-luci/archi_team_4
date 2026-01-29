@@ -1,7 +1,9 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-abb55ba2ab8549caad95dc080bd1321b">
+    name="SW-K8S"
+    id="id-abb55ba2ab8549caad95dc080bd1321b"
+    documentation="Сервис развёрнут в контейнере K8S">
   <source
       xsi:type="archimate:Node"
       href="Node_id-d1fa16fdad64466287333c02f689bea4.xml#id-d1fa16fdad64466287333c02f689bea4"/>

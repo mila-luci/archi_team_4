@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-50398c4d0b1e4f8584400e1ce06a54ac">
+    name="OnPrem-NET"
+    id="id-50398c4d0b1e4f8584400e1ce06a54ac"
+    documentation="On-Prem использует ресурсы сети передачи данных">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-888d89562be34c8daccfa4f558a94ce1.xml#id-888d89562be34c8daccfa4f558a94ce1"/>

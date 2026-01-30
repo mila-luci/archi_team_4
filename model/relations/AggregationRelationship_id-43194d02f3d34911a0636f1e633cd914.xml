@@ -1,12 +1,12 @@
-<archimate:CompositionRelationship
+<archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-abb55ba2ab8549caad95dc080bd1321b"
-    documentation="Сервис развёрнут в контейнере K8S">
+    name="SW-K8S"
+    id="id-43194d02f3d34911a0636f1e633cd914">
   <source
       xsi:type="archimate:Node"
       href="Node_id-d1fa16fdad64466287333c02f689bea4.xml#id-d1fa16fdad64466287333c02f689bea4"/>
   <target
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-a7de3ba80c184c919977c88f23dcc924.xml#id-a7de3ba80c184c919977c88f23dcc924"/>
-</archimate:CompositionRelationship>
+</archimate:AggregationRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Сообщение &quot;Заявка оформлена&quot;"
+    id="id-e7632f0bba3c4f19bd5294378d716b8c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1c68b627562542678304d4eddf0f1195.xml#id-1c68b627562542678304d4eddf0f1195"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-55fc0c3801e948968610b32d1540e552.xml#id-55fc0c3801e948968610b32d1540e552"/>
+</archimate:FlowRelationship>
